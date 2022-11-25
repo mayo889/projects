@@ -51,3 +51,6 @@
 7. shedule_event_update.sql - Создание события, которое запускает процедуры
 8. samples.sql - Характерные выборки (включающие группировки, JOIN'ы, вложенные таблицы)
 9. final_dump_kinopoisk.sql - Дамп БД
+
+### ER-диаграмма базы данных
+![ER_diagram](https://github.com/mayo889/projects/blob/main/MySQL_project/ERDiagram.png)
